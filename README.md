@@ -1,1 +1,1 @@
-echo "# provaGIT"
+ProvaGIT
